@@ -8,3 +8,9 @@
 - 🥅 2021 Goals: Contribute more to projects
 - ⚡ Fun fact: I love to watch cricket matches and play video games
 
+### Connect with me:
+
+[<img align="left" alt="tharushadilmith99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />

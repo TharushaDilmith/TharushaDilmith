@@ -15,8 +15,11 @@
 [<img align="left" alt="tharuva1 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="tharusha_dilmit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[![Top Languages](https://github-readme-stats.vercel.app/api?username=TharushaDilmith)](https://github.com/TharushaDilmith/github-readme-stats)
+
 [linkedin]: https://linkedin.com/in/tharushadilmith99
 [facebook]: https://www.facebook.com/tharuva1
 [instagram]: https://www.instagram.com/tharusha_dilmit
 [twitter]: https://twitter.com/Tharusha_dilmit
+
 <br />

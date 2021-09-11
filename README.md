@@ -19,9 +19,9 @@
 </br>
 </br>
 
-<!-- [![Tharusha's github stats](https://github-readme-stats.vercel.app/api?username=TharushaDilmith)](https://github.com/TharushaDilmith/github-readme-stats)
+[![Tharusha's github stats](https://github-readme-stats.vercel.app/api?username=TharushaDilmith)](https://github.com/TharushaDilmith/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharushaDilmith)](https://github.com/TharushaDilmith/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharushaDilmith)](https://github.com/TharushaDilmith/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/tharushadilmith99
 [facebook]: https://www.facebook.com/tharuva1

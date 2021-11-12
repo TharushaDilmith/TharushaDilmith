@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a Undergraduate student, Problem Solver, Programmer and Web Developer!
+## I'm a Undergraduate student, Problem Solver, Programmer and Web Developer
 
 - 🌱 I’m currently learning Spring boot framework
 - 🥅 2021 Goals: Contribute more to projects
